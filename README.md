@@ -1,4 +1,4 @@
-# Desafio do Felipão: Calculadora de partidas ranqueadas :calculator:
+# Desafio do Felipão: Calculadora de partidas ranqueadas :bar_chart:
 
 ## O que deve ser utilizado? :pencil:
 
@@ -22,4 +22,4 @@ Criar uma função que recebe como parâmetro a quantidade de vitórias e derrot
 - Se vitórias for maior ou igual a 101 = Imortal
 
  ### Saída
- Ao final deve se exibida a mensagem: "O herói de nome {nome} está no nível de {nivel}"
+ Ao final deve se exibir uma mensagem: "O Herói tem de saldo de {saldoVitorias} está no nível de {nivel}"
